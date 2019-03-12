@@ -1,2 +1,2 @@
-# task22
-Contains my task #22
+WEBSITE: http://kaaasen-task22.herokuapp.com/
+    GIT: https://github.com/kaaasen/task22/

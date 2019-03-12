@@ -1,0 +1,74 @@
+img {
+  height: auto;
+  width: auto;
+  max-width: 300px;
+  max-height: 300px;
+  }
+
+h1 {
+  color: #BF988F;
+  font-size: 300%;
+  text-transform: uppercase;
+  text-shadow: 4px 4px 20px #000;
+  text-align: center;
+  font-family: verdana;
+}
+
+h2 {
+  color: #BF988F;
+  font-size: 200%;
+  text-transform: uppercase;
+  text-shadow: 4px 4px 20px #000;
+  text-align: center;
+  font-family: verdana;
+}
+
+p {
+  color: #F1E0D6;
+  text-align: center;
+}
+
+body {
+  background-color: #583E2E;
+}
+
+a {
+  color: #F1E0D6;
+  font-size: 100%;
+  text-transform: lowercase;
+  text-shadow: 4px 4px 20px #000;
+  text-align: center;
+  font-family: verdana;
+}
+
+button {
+
+}
+
+header {
+	background: url("https://external-preview.redd.it/0LxH_b_o2kyetNnDGrSVG7gHUQCKI21b_SIEZgdI5Uc.jpg?width=960&crop=smart&auto=webp&s=731959a303d5ea0d5c1b22afbd317b33bc1b2718") no-repeat center center fixed;
+	background-size: cover;
+
+	min-height: 65vh;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+article {
+	width: 45%;
+	margin: 0 auto;
+	font-size: 14px;
+	font-family: Calibri;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  text-align: center;
+}
